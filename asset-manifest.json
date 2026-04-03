@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ting-tu0/Time-Traveler-Calendar.git/static/css/main.33ea9e38.css",
-    "main.js": "/ting-tu0/Time-Traveler-Calendar.git/static/js/main.e0fda4c0.js",
-    "static/js/453.f465b6d6.chunk.js": "/ting-tu0/Time-Traveler-Calendar.git/static/js/453.f465b6d6.chunk.js",
-    "index.html": "/ting-tu0/Time-Traveler-Calendar.git/index.html",
-    "main.33ea9e38.css.map": "/ting-tu0/Time-Traveler-Calendar.git/static/css/main.33ea9e38.css.map",
-    "main.e0fda4c0.js.map": "/ting-tu0/Time-Traveler-Calendar.git/static/js/main.e0fda4c0.js.map",
-    "453.f465b6d6.chunk.js.map": "/ting-tu0/Time-Traveler-Calendar.git/static/js/453.f465b6d6.chunk.js.map"
+    "main.css": "/Time-Traveler-Calendar/static/css/main.33ea9e38.css",
+    "main.js": "/Time-Traveler-Calendar/static/js/main.a8c57416.js",
+    "static/js/453.f465b6d6.chunk.js": "/Time-Traveler-Calendar/static/js/453.f465b6d6.chunk.js",
+    "index.html": "/Time-Traveler-Calendar/index.html",
+    "main.33ea9e38.css.map": "/Time-Traveler-Calendar/static/css/main.33ea9e38.css.map",
+    "main.a8c57416.js.map": "/Time-Traveler-Calendar/static/js/main.a8c57416.js.map",
+    "453.f465b6d6.chunk.js.map": "/Time-Traveler-Calendar/static/js/453.f465b6d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33ea9e38.css",
-    "static/js/main.e0fda4c0.js"
+    "static/js/main.a8c57416.js"
   ]
 }
